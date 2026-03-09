@@ -17,13 +17,14 @@
 
 <picture>
 <a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+  
 <img src="https://images.weserv.nl/?url=https://github.com/Deri-Kurniawan.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
 </a>
 </picture>
 
 ```js
 "use creativity";
-import { Person } from "indonesia";
+import { Person } from "Nepal
 
 new Person({
   name: "sameer tiruwa",
@@ -40,6 +41,23 @@ Hi, my name is Deri Kurniawan, I'm a Junior Full Stack Developer from Indonesia.
 ```
 
 <div align="center">
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code;Cloud+Native+Solutions;CI%2FCD+Pipelines;Kubernetes+Orchestration;Site+Reliability+Engineering" alt="Typing SVG" />
+</div>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/sameer-tiruwa-8149b3228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://hub.docker.com/u/YOUR_DOCKERHUB">
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Hub" />
+  </a>
+</p>
 
 <!--x axis divider-->
 
